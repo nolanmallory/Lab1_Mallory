@@ -4,7 +4,7 @@ Lab1_Mallory
 Nolan's circuit code truth table
 
 | ABC | XYZ | 
-|:---:|:---:| 
+|:-:|:-:| 
 | 000 | 000 | 
 | 001 | 111 | 
 | 010 | 110 |
