@@ -15,6 +15,8 @@ Nolan's circuit code truth table
 | 111 | 001 | 
 
 
+![alt text](https://github.com/nolanmallory/Lab1_Mallory/blob/master/kmaps.JPG "KMAP")
+
 
 
 
