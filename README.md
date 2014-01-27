@@ -30,3 +30,4 @@ THEREFORE THE CODE IS CORRECT.
 3-bit Analysis:
 
 All values were tested and the outputs corresponded to the truth table.
+Showed the video in class and demo complete.
