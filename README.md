@@ -23,9 +23,8 @@ Nolan's circuit code truth table
 [logo]: https://github.com/nolanmallory/Lab1_Mallory/blob/master/schematic.JPG "SCHEMATIC"
 
 Simulation analysis:
-
 THE TRUTH TABLE THAT I COMPOSED MATCHES THE SIMULATION
 THEREFORE THE CODE IS CORRECT.
 
-3-bit Analysis
+3-bit Analysis:
 All values were tested and the outputs corresponded to the truth table.
