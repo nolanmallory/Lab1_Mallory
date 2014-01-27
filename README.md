@@ -14,12 +14,18 @@ Nolan's circuit code truth table
 | 110 | 010 | 
 | 111 | 001 | 
 
+![alt text][logo]
 
-![alt text](https://github.com/nolanmallory/Lab1_Mallory/blob/master/kmaps.JPG "KMAP")
-![alt text](https://github.com/nolanmallory/Lab1_Mallory/blob/master/schematic.JPG "SCHEMATIC")
+[logo]: https://github.com/nolanmallory/Lab1_Mallory/blob/master/kmaps.JPG "KMAP"
 
+![alt text][logo]
 
+[logo]: https://github.com/nolanmallory/Lab1_Mallory/blob/master/schematic.JPG "SCHEMATIC"
 
+Simulation analysis:
 
 THE TRUTH TABLE THAT I COMPOSED MATCHES THE SIMULATION
 THEREFORE THE CODE IS CORRECT.
+
+3-bit Analysis
+All values were tested and the outputs corresponded to the truth table.
